@@ -44,4 +44,6 @@ See the [WordPress / Medusa / Gatsby Frontend repo](https://github.com/websuperg
 ### Development Update log
 (for my mental sanity)
 
+> add functions.php (style enqueue and menu), style.css (theme info), index.php (rest/redirect)
+>
 > modified readme to add better instructions
