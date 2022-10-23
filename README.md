@@ -43,8 +43,8 @@ This project is live at [https://wp2022.thathacktober.com](https://wp2022.thatha
 
 
 <figure>
-<figcaption><b>Configure your admin URL in the MedusaJS Store Settings</b></figcaption>
-<img src="https://user-images.githubusercontent.com/38568655/197411840-8ae517e7-e0e3-44f1-a7f3-2c17736b1077.png" alt="MedusaJS Store Settings" />
+<figcaption><b>Configure your admin + frontend URLs in the MedusaJS Store Settings</b></figcaption>
+<img src="https://user-images.githubusercontent.com/38568655/197416215-41a8e030-ca6f-4874-9cbd-c4081802ecb4.png" alt="MedusaJS Store Settings" />
 </figure>
 
 ### Credits
@@ -61,7 +61,9 @@ This project is live at [https://wp2022.thathacktober.com](https://wp2022.thatha
 ### Development Update log
 (for my mental sanity)
 
-> updating readme with more screenshots and information
+> add error checking, sanitize callbacks, and new settings screenshot
+>
+> update readme with more screenshots and information
 >
 > add screenshot and login
 >
