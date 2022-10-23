@@ -22,7 +22,7 @@
   </a>
 </p>
 
-> **Prerequisites**: You will need to create a WordPress installation with the [WPGraphQL](https://wordpress.org/plugins/wp-graphql/) plugin, the [WPGatsby](https://wordpress.org/plugins/wp-gatsby/) plugin, and this theme.
+> **Prerequisites**: You will need to create a WordPress installation with the [WPGraphQL](https://wordpress.org/plugins/wp-graphql/) plugin, the [WPGatsby](https://wordpress.org/plugins/wp-gatsby/) plugin, and this theme. I would also suggest to update the permalinks to "post name".
 
 ### Installation
 
@@ -61,6 +61,8 @@ This project is live at [https://wp2022.thathacktober.com](https://wp2022.thatha
 ### Development Update log
 (for my mental sanity)
 
+> add permalink suggestion
+>
 > add error checking, sanitize callbacks, and new settings screenshot
 >
 > update readme with more screenshots and information
