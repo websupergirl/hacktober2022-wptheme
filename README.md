@@ -1,16 +1,5 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://user-images.githubusercontent.com/38568655/197082856-927f23da-5494-4a2f-aec4-78c9422c42e4.png" width="160" height="160" />
-  </a>
-  <a href="https://www.medusa-commerce.com">
-    <img alt="Medusa" src="https://user-images.githubusercontent.com/38568655/197082853-5469178f-a9b7-49ba-b784-0a2d0fb4112a.png" width="160" height="160" />
-  </a>
-  <a href="https://wordpress.org">
-    <img alt="WordPress" src="https://user-images.githubusercontent.com/38568655/197082855-2c90226f-9169-442a-ba15-b7d5ae561aa2.png" width="160" height="160" />
-  </a>
-  <a href="https://supernikole.com">
-    <img alt="That Super Girl" src="https://user-images.githubusercontent.com/38568655/197082858-ea6f2026-8b7a-4dd7-9bca-8c9939228834.png" width="160" height="160" />
-  </a>
+  <img alt="Theme for the WordPress / Medusa / Gatsby Frontend" src="https://user-images.githubusercontent.com/38568655/197411385-a3597261-1db5-4cd0-8bcd-d973c9d75772.png" />
 </p>
 <h1 align="center">
   Theme for the WordPress / Medusa / Gatsby Frontend
@@ -35,13 +24,27 @@
 
 > **Prerequisites**: You will need to create a WordPress installation with the [WPGraphQL](https://wordpress.org/plugins/wp-graphql/) plugin, the [WPGatsby](https://wordpress.org/plugins/wp-gatsby/) plugin, and this theme.
 
-See the [WordPress / Medusa / Gatsby Frontend repo](https://github.com/websupergirl/hacktoberfest2022-frontend) to continue installation after you have set up WordPress and put some data into it.
+### Installation
+
+Download a zip of this repo and upload it via SFTP or via the wp-admin by going to Appearance > Themes > Add New.
+
+See the [WordPress / Medusa / Gatsby Frontend repo](https://github.com/websupergirl/hacktoberfest2022-frontend) to continue installation after you have set up WordPress and put some blog posts into it.
+
+### Demo
+
+This project is live at [https://wp2022.thathacktober.com](https://wp2022.thathacktober.com/)
 
 ### Screenshots
 
-<p align="center">
-  <img alt="MedusaJS Admin Login" src="https://user-images.githubusercontent.com/38568655/197392768-b8e570dc-b24c-4d48-b0d2-9747e7b2fd48.png" />
-</p>
+<figure align="center">
+<img src="https://user-images.githubusercontent.com/38568655/197392768-b8e570dc-b24c-4d48-b0d2-9747e7b2fd48.png" alt="MedusaJS Admin Login" />
+<figcaption align="center"><b>MedusaJS Admin Login</b></figcaption>
+</figure>
+
+<figure align="center">
+<img src="https://user-images.githubusercontent.com/38568655/197411840-8ae517e7-e0e3-44f1-a7f3-2c17736b1077.png" alt="MedusaJS Store Settings" />
+<figcaption align="center"><b>Configure your admin URL in the MedusaJS Store Settings</b></figcaption>
+</figure>
 
 ---
 
@@ -50,6 +53,8 @@ See the [WordPress / Medusa / Gatsby Frontend repo](https://github.com/websuperg
 ### Development Update log
 (for my mental sanity)
 
+> updating readme with more screenshots and information
+>
 > add screenshot and login
 >
 > add index page which dumps rest api data when you access posts, pages, categories, and tags while logged in (helpful for troubleshooting)
