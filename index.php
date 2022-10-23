@@ -25,7 +25,8 @@ if ( is_user_logged_in() ) {
   print "</pre>";
 
 } else { // if you're not logged in, you get redirected to the actual front end
-	wp_redirect( 'https://wordpress.org/plugins/wp-gatsby/' );
+	$frontend_url = get_option( 'frontend_url' ) ?: 'https://medusajs.com/';
+  wp_redirect( $frontend_url );
   exit;
 }
 ?>
