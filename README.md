@@ -36,14 +36,15 @@ This project is live at [https://wp2022.thathacktober.com](https://wp2022.thatha
 
 ### Screenshots
 
-<figure align="center">
+<figure>
+<figcaption><b>MedusaJS Admin Login</b></figcaption>
 <img src="https://user-images.githubusercontent.com/38568655/197392768-b8e570dc-b24c-4d48-b0d2-9747e7b2fd48.png" alt="MedusaJS Admin Login" />
-<figcaption align="center"><b>MedusaJS Admin Login</b></figcaption>
 </figure>
 
-<figure align="center">
+
+<figure>
+<figcaption><b>Configure your admin URL in the MedusaJS Store Settings</b></figcaption>
 <img src="https://user-images.githubusercontent.com/38568655/197411840-8ae517e7-e0e3-44f1-a7f3-2c17736b1077.png" alt="MedusaJS Store Settings" />
-<figcaption align="center"><b>Configure your admin URL in the MedusaJS Store Settings</b></figcaption>
 </figure>
 
 ### Credits
