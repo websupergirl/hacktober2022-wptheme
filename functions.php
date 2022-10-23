@@ -24,10 +24,29 @@ function medusa_admin_menu(){
 		'medusa_admin',
 		'medusa_admin_menu_callback',
 		'dashicons-cart',
-		4
+		1
 	);
 }
  
 function medusa_admin_menu_callback(){
 	echo '<iframe src="https://playful-faloodeh-d031e6.netlify.app/" title"MedusaJS Admin" style="padding:0; margin:0; width:100%; height:100vh;top:0px;left:0px;right:0px;bottom:0px;display:block;"></iframe>';
+}
+
+add_action( 'admin_menu', 'medusa_submenu' );
+
+function medusa_submenu(){
+
+	add_submenu_page(
+		'medusa_admin',
+		'Settings',
+		'Settings',
+		'manage_options',
+		'medusa_settings',
+		'medusa_admin_settings_callback',
+		5
+	);
+}
+
+function medusa_admin_settings_callback(){
+	echo 'What is up?';
 }
