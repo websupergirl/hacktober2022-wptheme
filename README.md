@@ -37,6 +37,12 @@
 
 See the [WordPress / Medusa / Gatsby Frontend repo](https://github.com/websupergirl/hacktoberfest2022-frontend) to continue installation after you have set up WordPress and put some data into it.
 
+### Screenshots
+
+<p align="center">
+  <img alt="MedusaJS Admin Login" src="https://user-images.githubusercontent.com/38568655/197392768-b8e570dc-b24c-4d48-b0d2-9747e7b2fd48.png" />
+</p>
+
 ---
 
 ---
@@ -44,6 +50,8 @@ See the [WordPress / Medusa / Gatsby Frontend repo](https://github.com/websuperg
 ### Development Update log
 (for my mental sanity)
 
+> add screenshot and login
+>
 > add index page which dumps rest api data when you access posts, pages, categories, and tags while logged in (helpful for troubleshooting)
 >
 > add functions.php (style enqueue and menu), style.css (theme info), index.php (rest/redirect)

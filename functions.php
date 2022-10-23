@@ -29,5 +29,5 @@ function medusa_admin_menu(){
 }
  
 function medusa_admin_menu_callback(){
-	echo 'What is up?';
+	echo '<iframe src="https://playful-faloodeh-d031e6.netlify.app/" title"MedusaJS Admin" style="padding:0; margin:0; width:100%; height:100vh;top:0px;left:0px;right:0px;bottom:0px;display:block;"></iframe>';
 }
