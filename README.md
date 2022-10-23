@@ -46,6 +46,13 @@ This project is live at [https://wp2022.thathacktober.com](https://wp2022.thatha
 <figcaption align="center"><b>Configure your admin URL in the MedusaJS Store Settings</b></figcaption>
 </figure>
 
+### Credits
+
+* [Gatsby](https://www.gatsbyjs.com)
+* [Medusa](https://www.medusa-commerce.com)
+* [WordPress](https://wordpress.org)
+* [That Super Girl](https://supernikole.com)
+
 ---
 
 ---
